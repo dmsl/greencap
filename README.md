@@ -1,6 +1,6 @@
 # GreenCap
 
-It internally deploys an AI-inspired GreenCap algorithm that utilizes load shifting for IoT-enabled Home Energy Management Systems (HEMS), considering optimization algorithms, integration of renewable energy sources, multiple constraints, peak demand times, and dynamic pricing. 
+It internally deploys an AI-inspired algorithm that utilizes load shifting for IoT-enabled Home Energy Management Systems (HEMS), considering optimization algorithms, integration of renewable energy sources, multiple constraints, peak demand times, and dynamic pricing. 
 
 The GreenCap Controller has been developed by researchers and students at the Data Management Systems Laboratory (DMSL), Department of Computer Science at the University of Cyprus.
 
